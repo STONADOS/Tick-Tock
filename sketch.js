@@ -59,7 +59,7 @@ function draw() {
 
 
   translate(0, 0);
-  rotate(-90);
+  rotate(0);
   push();
   rotate(hrAngle);
   stroke("blue");
